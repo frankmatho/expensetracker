@@ -160,7 +160,7 @@ def main():
         elif choice == "3":
             view_summary()
         elif choice == "4":
-            print("\nGoodbye! Keep tracking those expenses 💰")
+            print("\nGoodbye! Keep tracking those expenses ")
             break
         else:
             print("Invalid choice. Please enter 1, 2, 3, or 4.")
